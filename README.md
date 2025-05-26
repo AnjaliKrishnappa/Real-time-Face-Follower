@@ -12,8 +12,6 @@ DynamicFaceFollower is a face tracking project that uses computer vision techniq
 
 ## Live model
 
-![Demo Model](/Demo_image.jpg)
-
 ## Requirements
 
 - Python 3.x
