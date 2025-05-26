@@ -10,8 +10,6 @@ DynamicFaceFollower is a face tracking project that uses computer vision techniq
 - Communication with Arduino for servo control based on face position.
 - Visual feedback on distance to the detected face.
 
-## Live model
-
 ## Requirements
 
 - Python 3.x
